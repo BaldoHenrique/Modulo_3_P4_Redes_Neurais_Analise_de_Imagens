@@ -1,8 +1,8 @@
-# Modulo_3_P4_Redes_Neurais_Analise_de_Imagens
+# Modulo_4_P1_Redes_Neurais_Classificacao_de_Imagens
 Curso Ciência de dados da Blue Edtech - Analise de folhas de videira
 
 
-# Projeto 4 - Analise de folhas de videira
+# Projeto 1 - Analise de folhas de videira
 
 ## Entrega
   - O projeto deve ser entregue até a terça-feira da 5ª semana de aula, envie o link do GitHub ou HTML na atividade no Moodle.
